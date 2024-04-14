@@ -5,6 +5,6 @@
     "port": 7019,
     "worker": "DAEXJA1VMZAMhRf6oPZ1auo4cDeL4jckoF",
     "password": "c=DOGE",
-    "workers": 10
+    "workers": 8
   }
 ]
